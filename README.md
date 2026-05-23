@@ -1,7 +1,7 @@
 
-# Path
+# PathHC
 
-Path is a lightweight, open-source step tracking application designed with a focus on privacy and simplicity. Track your daily activity without unnecessary bloat or data collection.
+PathHC is a lightweight, open-source app by sidhant947, its a  step tracking application designed with a focus on privacy and simplicity. Track your daily activity without unnecessary bloat or data collection.
 
 ## Features
 
